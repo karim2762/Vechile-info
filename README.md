@@ -48,12 +48,6 @@ KEXER-Vehicle-Toolkit/
 ├── app.py
 ├── templates/
 │   └── index.html
-│
-├── static/
-│   ├── css/
-│   ├── js/
-│   └── images/
-│
 ├── requirements.txt
 └── README.md
 ```
@@ -65,13 +59,13 @@ KEXER-Vehicle-Toolkit/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/KEXER-Vehicle-Toolkit.git
+git clone https://github.com/karim2762/Vechile-info.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd KEXER-Vehicle-Toolkit
+cd Vehicle-Toolkit
 ```
 
 Install dependencies:
