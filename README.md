@@ -2,7 +2,7 @@
 
 > Advanced Vehicle Information Lookup System powered by Python & API Integration.
 
-![KEXER](https://i.postimg.cc/nzDPnjWs/IMG-20250829-232642-555.jpg)
+
 
 ---
 
